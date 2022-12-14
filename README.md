@@ -39,4 +39,14 @@ https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9
 </div>
 </details>
 
+## 2022.12.15
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 코딩테스트 입문 Day8 배열, 구현, 수학 : https://velog.io/@rosesua318/Day8-%EB%B0%B0%EC%97%B4-%EA%B5%AC%ED%98%84-%EC%88%98%ED%95%99 <br>
+
+</div>
+</details>
 
