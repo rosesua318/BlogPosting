@@ -20,4 +20,5 @@
 프로그래머스 코딩테스트 입문 Day4 수학, 배열 : https://velog.io/@rosesua318/Day4-%EC%88%98%ED%95%99-%EB%B0%B0%EC%97%B4 <br>
 프로그래머스 코딩테스트 입문(5) : https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B8-5 <br>
 프로그래머스 코딩테스트 입문(6) : https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B86 <br>
-프로그래머스 코딩테스트 입문(7) : https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B87
+프로그래머스 코딩테스트 입문(7) : https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B87 <br>
+프로그래머스 코딩테스트 입문(8) : https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B88
