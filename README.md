@@ -47,7 +47,9 @@ https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9
 
 프로그래머스 코딩테스트 입문 Day8 배열, 구현, 수학 : https://velog.io/@rosesua318/Day8-%EB%B0%B0%EC%97%B4-%EA%B5%AC%ED%98%84-%EC%88%98%ED%95%99 <br>
 프로그래머스 코딩테스트 입문 Day9 수학, 문자열, 해시, 완전탐색, 조건문 : https://velog.io/@rosesua318/Day9%EC%88%98%ED%95%99-%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%95%B4%EC%8B%9C-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-%EC%A1%B0%EA%B1%B4%EB%AC%B8 <br>
-프로그래머스 코딩테스트 입문(16) : https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B816
+프로그래머스 코딩테스트 입문(16) : https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B816 <br>
+프로그래머스 코딩테스트 입문(17) : https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B817 <br>
+
 </div>
 </details>
 
