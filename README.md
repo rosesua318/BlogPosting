@@ -69,3 +69,16 @@ https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9
 </div>
 </details>
 
+
+## 2022.12.17
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 약수의 합 : https://velog.io/@rosesua318/%EC%95%BD%EC%88%98%EC%9D%98-%ED%95%A9-Java <br>
+
+</div>
+</details>
+
+
