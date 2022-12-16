@@ -88,6 +88,7 @@ https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9
 프로그래머스 연습문제 하샤드 수 : https://velog.io/@rosesua318/%ED%95%98%EC%83%A4%EB%93%9C-%EC%88%98 <br>
 프로그래머스 연습문제 정수 내림차순으로 배치하기 : https://velog.io/@rosesua318/%EC%A0%95%EC%88%98-%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0-Java <br>
 프로그래머스 연습문제 나머지가 1이 되는 수 찾기 : https://velog.io/@rosesua318/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80-1%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%88%98-%EC%B0%BE%EA%B8%B0 <br>
+프로그래머스 연습문제 두 정수 사이의 합 : https://velog.io/@rosesua318/%EB%91%90-%EC%A0%95%EC%88%98-%EC%82%AC%EC%9D%B4%EC%9D%98-%ED%95%A9 <br>
 
 </div>
 </details>
