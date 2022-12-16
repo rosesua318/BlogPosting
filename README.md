@@ -82,7 +82,8 @@ https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9
 프로그래머스 연습문제 자릿수 더하기 : https://velog.io/@rosesua318/%EC%9E%90%EB%A6%BF%EC%88%98-%EB%8D%94%ED%95%98%EA%B8%B0-Java <br>
 프로그래머스 연습문제 자연수 뒤집어 배열로 만들기 : https://velog.io/@rosesua318/%EC%9E%90%EC%97%B0%EC%88%98-%EB%92%A4%EC%A7%91%EC%96%B4-%EB%B0%B0%EC%97%B4%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-Java <br>
 프로그래머스 연습문제 정수 제곱근 판별 : https://velog.io/@rosesua318/%EC%A0%95%EC%88%98-%EC%A0%9C%EA%B3%B1%EA%B7%BC-%ED%8C%90%EB%B3%84 <br>
-
+프로그래머스 연습문제 문자열 내 p와 y의 개수 : https://velog.io/@rosesua318/%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%82%B4-p%EC%99%80-y%EC%9D%98-%EA%B0%9C%EC%88%98 <br>
+  
 </div>
 </details>
 
