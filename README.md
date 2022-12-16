@@ -62,7 +62,9 @@ https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9
 <div markdown="1">
 
 프로그래머스 코딩테스트 입문 Day 10 조건문, 배열, 수학, 시뮬레이션 : https://velog.io/@rosesua318/Day-10-%EC%A1%B0%EA%B1%B4%EB%AC%B8-%EB%B0%B0%EC%97%B4-%EC%88%98%ED%95%99-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98 <br>
-프로그래머스 코딩테스트 입문(19) : https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B819
+프로그래머스 코딩테스트 입문(19) : https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B819 <br>
+프로그래머스 코딩테스트 입문(20) : 
+https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%85%EB%AC%B820
 
 </div>
 </details>
