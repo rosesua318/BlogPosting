@@ -79,6 +79,7 @@ https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9
 프로그래머스 연습문제 약수의 합 : https://velog.io/@rosesua318/%EC%95%BD%EC%88%98%EC%9D%98-%ED%95%A9-Java <br>
 프로그래머스 연습문제 짝수와 홀수 : https://velog.io/@rosesua318/%EC%A7%9D%EC%88%98%EC%99%80-%ED%99%80%EC%88%98-Java <br>
 프로그래머스 연습문제 평균 구하기 : https://velog.io/@rosesua318/%ED%8F%89%EA%B7%A0-%EA%B5%AC%ED%95%98%EA%B8%B0-Java <br>
+프로그래머스 연습문제 자릿수 더하기 : https://velog.io/@rosesua318/%EC%9E%90%EB%A6%BF%EC%88%98-%EB%8D%94%ED%95%98%EA%B8%B0-Java <br>
 
 </div>
 </details>
