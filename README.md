@@ -90,6 +90,7 @@ https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9
 프로그래머스 연습문제 나머지가 1이 되는 수 찾기 : https://velog.io/@rosesua318/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80-1%EC%9D%B4-%EB%90%98%EB%8A%94-%EC%88%98-%EC%B0%BE%EA%B8%B0 <br>
 프로그래머스 연습문제 두 정수 사이의 합 : https://velog.io/@rosesua318/%EB%91%90-%EC%A0%95%EC%88%98-%EC%82%AC%EC%9D%B4%EC%9D%98-%ED%95%A9 <br>
 프로그래머스 연습문제 콜라츠 추측 : https://velog.io/@rosesua318/%EC%BD%9C%EB%9D%BC%EC%B8%A0-%EC%B6%94%EC%B8%A1-Java <br>
+프로그래머스 연습문제 서울에서 김서방 찾기 : https://velog.io/@rosesua318/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C-%EA%B9%80%EC%84%9C%EB%B0%A9-%EC%B0%BE%EA%B8%B0-Java <br>
   
 </div>
 </details>
