@@ -102,4 +102,16 @@ https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9
 </div>
 </details>
 
+## 2022.12.18
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+Eureka(spring-cloud-discovery) 프로젝트에 적용해보기 : https://velog.io/@rosesua318/Eurekaspring-cloud-discovery-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0 <br>
+Eureka를 이용한 서버 간 통신하기 (http 통신) + Swagger로도 테스트 : https://velog.io/@rosesua318/Eureka%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B2%84-%EA%B0%84-%ED%86%B5%EC%8B%A0%ED%95%98%EA%B8%B0-http-%ED%86%B5%EC%8B%A0 <br>
+Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ-%EC%A0%81%EC%9A%A9-%EA%B2%B0%EA%B3%BC <br>
+
+</div>
+</details>
 
