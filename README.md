@@ -91,7 +91,14 @@ https://velog.io/@rosesua318/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9
 프로그래머스 연습문제 두 정수 사이의 합 : https://velog.io/@rosesua318/%EB%91%90-%EC%A0%95%EC%88%98-%EC%82%AC%EC%9D%B4%EC%9D%98-%ED%95%A9 <br>
 프로그래머스 연습문제 콜라츠 추측 : https://velog.io/@rosesua318/%EC%BD%9C%EB%9D%BC%EC%B8%A0-%EC%B6%94%EC%B8%A1-Java <br>
 프로그래머스 연습문제 서울에서 김서방 찾기 : https://velog.io/@rosesua318/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C-%EA%B9%80%EC%84%9C%EB%B0%A9-%EC%B0%BE%EA%B8%B0-Java <br>
-  
+프로그래머스 연습문제 핸드폰 번호 가리기 : https://velog.io/@rosesua318/%ED%95%B8%EB%93%9C%ED%8F%B0-%EB%B2%88%ED%98%B8-%EA%B0%80%EB%A6%AC%EA%B8%B0-Java <br>
+프로그래머스 연습문제 나누어 떨어지는 숫자 배열 : https://velog.io/@rosesua318/%EB%82%98%EB%88%84%EC%96%B4-%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94-%EC%88%AB%EC%9E%90-%EB%B0%B0%EC%97%B4 <br>
+프로그래머스 연습문제 제일 작은 수 제거하기 : https://velog.io/@rosesua318/%EC%A0%9C%EC%9D%BC-%EC%9E%91%EC%9D%80-%EC%88%98-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-Java <br>
+프로그래머스 연습문제 음양 더하기 : https://velog.io/@rosesua318/%EC%9D%8C%EC%96%91-%EB%8D%94%ED%95%98%EA%B8%B0-Java <br>
+프로그래머스 연습문제 없는 숫자 더하기 : https://velog.io/@rosesua318/%EC%97%86%EB%8A%94-%EC%88%AB%EC%9E%90-%EB%8D%94%ED%95%98%EA%B8%B0-Java <br>
+프로그래머스 연습문제 가운데 글자 가져오기 : https://velog.io/@rosesua318/%EA%B0%80%EC%9A%B4%EB%8D%B0-%EA%B8%80%EC%9E%90-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0-Java <br>
+프로그래머스 연습문제 수박수박수박수박수박수? : https://velog.io/@rosesua318/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98 <br>
+프로그래머스 연습문제 내적 : https://velog.io/@rosesua318/%EB%82%B4%EC%A0%81-Java <br>
 </div>
 </details>
 
