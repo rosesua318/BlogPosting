@@ -116,3 +116,14 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 </div>
 </details>
 
+## 2022.12.19
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 약수의 개수와 덧셈 : https://velog.io/@rosesua318/%EC%95%BD%EC%88%98%EC%9D%98-%EA%B0%9C%EC%88%98%EC%99%80-%EB%8D%A7%EC%85%88-Java <br>
+프로그래머스 연습문제 문자열 다루기 기본 : https://velog.io/@rosesua318/%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%8B%A4%EB%A3%A8%EA%B8%B0-%EA%B8%B0%EB%B3%B8-Java <br>
+
+</div>
+</details>
