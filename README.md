@@ -127,3 +127,15 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 
 </div>
 </details>
+
+
+## 2022.12.20
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 부족한 금액 계산하기 : https://velog.io/@rosesua318/%EB%B6%80%EC%A1%B1%ED%95%9C-%EA%B8%88%EC%95%A1-%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0-Java <br>
+
+</div>
+</details>
