@@ -173,3 +173,16 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 
 </div>
 </details>
+
+
+## 2022.12.24
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 같은 숫자는 싫어 : https://velog.io/@rosesua318/%EA%B0%99%EC%9D%80-%EC%88%AB%EC%9E%90%EB%8A%94-%EC%8B%AB%EC%96%B4 <br>
+
+</div>
+</details>
+
