@@ -209,3 +209,15 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 
 </div>
 </details>
+
+## 2022.12.27
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 숫자 문자열과 영단어 : https://velog.io/@rosesua318/K%EB%B2%88%EC%A7%B8%EC%88%98-Javahttps://velog.io/@rosesua318/%EC%88%AB%EC%9E%90-%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC-%EC%98%81%EB%8B%A8%EC%96%B4-Java <br>
+
+</div>
+</details>
+
