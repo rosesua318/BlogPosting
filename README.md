@@ -221,3 +221,14 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 </div>
 </details>
 
+
+## 2022.12.278
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 두 개 뽑아서 더하기 : https://velog.io/@rosesua318/%EB%91%90-%EA%B0%9C-%EB%BD%91%EC%95%84%EC%84%9C-%EB%8D%94%ED%95%98%EA%B8%B0 <br>
+
+</div>
+</details>
