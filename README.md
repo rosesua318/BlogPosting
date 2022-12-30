@@ -243,3 +243,15 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 
 </div>
 </details>
+
+
+## 2022.12.30
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 아픈 동물 찾기 : https://velog.io/@rosesua318/%EC%95%84%ED%94%88-%EB%8F%99%EB%AC%BC-%EC%B0%BE%EA%B8%B0-SQL <br>
+
+</div>
+</details>
