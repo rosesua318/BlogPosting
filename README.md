@@ -255,3 +255,15 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 
 </div>
 </details>
+
+## 2022.12.31
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 상위 n개 레코드 : https://velog.io/@rosesua318/%EC%83%81%EC%9C%84-n%EA%B0%9C-%EB%A0%88%EC%BD%94%EB%93%9C-SQL <br>
+
+</div>
+</details>
+
