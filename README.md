@@ -277,6 +277,10 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 프로그래머스 연습문제 동물의 아이디와 이름 : https://velog.io/@rosesua318/%EB%8F%99%EB%AC%BC%EC%9D%98-%EC%95%84%EC%9D%B4%EB%94%94%EC%99%80-%EC%9D%B4%EB%A6%84-SQL <br>
 프로그래머스 연습문제 이름이 있는 동물의 아이디 : https://velog.io/@rosesua318/%EC%9D%B4%EB%A6%84%EC%9D%B4-%EC%9E%88%EB%8A%94-%EB%8F%99%EB%AC%BC%EC%9D%98-%EC%95%84%EC%9D%B4%EB%94%94-SQL <br>
 프로그래머스 연습문제 어린 동물 찾기 : https://velog.io/@rosesua318/%EC%96%B4%EB%A6%B0-%EB%8F%99%EB%AC%BC-%EC%B0%BE%EA%B8%B0-SQL <br>
+백준 10828번 스택 : https://velog.io/@rosesua318/10828%EB%B2%88-%EC%8A%A4%ED%83%9D-Java <br>
+백준 18258번 큐 2 : https://velog.io/@rosesua318/18258%EB%B2%88-%ED%81%90-2-Java <br>
+백준 2164번 카드2 : https://velog.io/@rosesua318/2164%EB%B2%88-%EC%B9%B4%EB%93%9C2-Java <br>
+백준 1874번 스택 수열 : https://velog.io/@rosesua318/1874%EB%B2%88-%EC%8A%A4%ED%83%9D-%EC%88%98%EC%97%B4-Java <br>
 
 </div>
 </details>
