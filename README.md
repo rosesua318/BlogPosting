@@ -286,7 +286,19 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 </details>
 
 
-## 2023.01.02
+## 2023.01.04
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 여러 기준으로 정렬하기 : https://velog.io/@rosesua318/%EC%97%AC%EB%9F%AC-%EA%B8%B0%EC%A4%80%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-SQL <br>
+
+</div>
+</details>
+
+
+## 2023.01.0
 
 <details>
 <summary>포스트 주소</summary>
