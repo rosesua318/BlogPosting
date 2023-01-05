@@ -285,6 +285,17 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 </div>
 </details>
 
+## 2023.01.02
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 역순 정렬하기 : https://velog.io/@rosesua318/%EC%97%AD%EC%88%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-SQL <br>
+
+</div>
+</details>
+
 
 ## 2023.01.04
 
@@ -298,13 +309,13 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 </details>
 
 
-## 2023.01.0
+## 2023.01.05
 
 <details>
 <summary>포스트 주소</summary>
 <div markdown="1">
 
-프로그래머스 연습문제 역순 정렬하기 : https://velog.io/@rosesua318/%EC%97%AD%EC%88%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0-SQL <br>
+프로그래머스 연습문제 강원도에 위치한 생산공장 목록 출력하기 : https://velog.io/@rosesua318/%EA%B0%95%EC%9B%90%EB%8F%84%EC%97%90-%EC%9C%84%EC%B9%98%ED%95%9C-%EC%83%9D%EC%82%B0%EA%B3%B5%EC%9E%A5-%EB%AA%A9%EB%A1%9D-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0-SQL <br>
 
 </div>
 </details>
