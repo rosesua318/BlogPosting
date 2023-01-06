@@ -319,3 +319,16 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 
 </div>
 </details>
+
+
+
+## 2023.01.06
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 나이 정보가 없는 회원 수 구하기 : https://velog.io/@rosesua318/%EB%82%98%EC%9D%B4-%EC%A0%95%EB%B3%B4%EA%B0%80-%EC%97%86%EB%8A%94-%ED%9A%8C%EC%9B%90-%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0-SQL <br>
+
+</div>
+</details>
