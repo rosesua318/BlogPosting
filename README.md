@@ -332,3 +332,14 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 
 </div>
 </details>
+
+## 2023.01.07
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 이름이 없는 동물의 아이디 : https://velog.io/@rosesua318/%EC%9D%B4%EB%A6%84%EC%9D%B4-%EC%97%86%EB%8A%94-%EB%8F%99%EB%AC%BC%EC%9D%98-%EC%95%84%EC%9D%B4%EB%94%94-SQL <br>
+
+</div>
+</details>
