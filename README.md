@@ -343,3 +343,14 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 
 </div>
 </details>
+
+## 2023.01.08
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 흉부외과 또는 일반외과 의사 목록 출력하기 : https://velog.io/@rosesua318/%ED%9D%89%EB%B6%80%EC%99%B8%EA%B3%BC-%EB%98%90%EB%8A%94-%EC%9D%BC%EB%B0%98%EC%99%B8%EA%B3%BC-%EC%9D%98%EC%82%AC-%EB%AA%A9%EB%A1%9D-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0-SQL <br>
+
+</div>
+</details>
