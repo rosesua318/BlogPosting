@@ -354,3 +354,15 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 
 </div>
 </details>
+
+
+## 2023.01.09
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 12세 이하인 여자 환자 목록 출력하기 : https://velog.io/@rosesua318/12%EC%84%B8-%EC%9D%B4%ED%95%98%EC%9D%B8-%EC%97%AC%EC%9E%90-%ED%99%98%EC%9E%90-%EB%AA%A9%EB%A1%9D-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0SQL <br>
+
+</div>
+</details>
