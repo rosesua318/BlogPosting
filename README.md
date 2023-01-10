@@ -366,3 +366,15 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 
 </div>
 </details>
+
+
+## 2023.01.10
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 인기있는 아이스크림 : https://velog.io/@rosesua318/%EC%9D%B8%EA%B8%B0%EC%9E%88%EB%8A%94-%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC-SQL <br>
+
+</div>
+</details>
