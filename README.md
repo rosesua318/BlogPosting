@@ -403,3 +403,15 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 </div>
 </details>
 
+
+## 2023.01.13
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 경기도에 위치한 식품창고 목록 출력하기 : https://velog.io/@rosesua318/%EA%B2%BD%EA%B8%B0%EB%8F%84%EC%97%90-%EC%9C%84%EC%B9%98%ED%95%9C-%EC%8B%9D%ED%92%88%EC%B0%BD%EA%B3%A0-%EB%AA%A9%EB%A1%9D-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0-SQL <br>
+
+</div>
+</details>
+
