@@ -426,3 +426,14 @@ Gateway & RabbitMQ 적용 결과 : https://velog.io/@rosesua318/Gateway-RabbitMQ
 
 </div>
 </details>
+
+## 2023.01.15
+
+<details>
+<summary>포스트 주소</summary>
+<div markdown="1">
+
+프로그래머스 연습문제 가장 비싼 상품 구하기 : https://velog.io/@rosesua318/%EA%B0%80%EC%9E%A5-%EB%B9%84%EC%8B%BC-%EC%83%81%ED%92%88-%EA%B5%AC%ED%95%98%EA%B8%B0-SQL <br>
+
+</div>
+</details>
